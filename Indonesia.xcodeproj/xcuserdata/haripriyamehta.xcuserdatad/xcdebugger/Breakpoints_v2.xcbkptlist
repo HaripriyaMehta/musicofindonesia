@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/CustomMapViewAnnotationCalloutSwift-master/SwiftMapViewCustomCallout/ExampleCalloutView.swift"
+            timestampString = "564843046.8558379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "75"
+            endingLineNumber = "75"
+            landmarkName = "ExampleCalloutView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "../../Downloads/CustomMapViewAnnotationCalloutSwift-master/SwiftMapViewCustomCallout/ExampleCalloutView.swift"
+            timestampString = "564843046.8558379"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "77"
+            endingLineNumber = "77"
+            landmarkName = "updateContents(for:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Indonesia.ExampleCalloutView.(updateContents in _2583CD1E7B409171095EF0A2CF111B94) (for : __ObjC.MKAnnotation) -&gt; ()"
+                  moduleName = "Indonesia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haripriyamehta/Downloads/CustomMapViewAnnotationCalloutSwift-master/SwiftMapViewCustomCallout/ExampleCalloutView.swift"
+                  timestampString = "564842883.5464129"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "27">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Indonesia.ExampleCalloutView.((updateContents in _2583CD1E7B409171095EF0A2CF111B94) (for : __ObjC.MKAnnotation) -&gt; ()).(implicit closure #1)"
+                  moduleName = "Indonesia"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/haripriyamehta/Downloads/CustomMapViewAnnotationCalloutSwift-master/SwiftMapViewCustomCallout/ExampleCalloutView.swift"
+                  timestampString = "564842883.549179"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "76"
+                  endingLineNumber = "76"
+                  offsetFromSymbolStart = "33">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Indonesia/ModalPopupView.swift"
+            timestampString = "565528603.7163939"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "11"
+            endingLineNumber = "11"
+            landmarkName = "ModalPopupView"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Indonesia/ModalPopupView.swift"
+            timestampString = "565608348.209625"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
